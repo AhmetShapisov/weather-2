@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pngtree-rain-cloud-vector-icon-png-image_355969-2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pngtree-rain-cloud-vector-icon-png-image_355969-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pngtree-rain-cloud-vector-icon-png-image_355969.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

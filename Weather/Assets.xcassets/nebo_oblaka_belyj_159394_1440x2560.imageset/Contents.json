@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "39126-dnevnoe_vremya-sinij-sinij_cvet-oblako-kuchevoe_oblako-1080x1920-1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "39126-dnevnoe_vremya-sinij-sinij_cvet-oblako-kuchevoe_oblako-1080x1920.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

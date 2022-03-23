@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CzQ-sY-vx2"; */
+"CzQ-sY-vx2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JsP-T8-iQc"; */
+"JsP-T8-iQc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pwa-pN-ctU"; */
+"Pwa-pN-ctU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QdQ-dM-U4x"; */
+"QdQ-dM-U4x.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Get Weather"; ObjectID = "UIx-fG-fal"; */
+"UIx-fG-fal.normalTitle" = "Узнать Погоду";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dag-2g-SfM"; */
+"dag-2g-SfM.text" = "Label";
+
+/* Class = "UITextField"; text = "London"; ObjectID = "yuO-9x-ig0"; */
+"yuO-9x-ig0.text" = "London";
